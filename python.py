@@ -4,4 +4,5 @@ cidade = input('Digite sua cidade: ')
 dados = name + idade + cidade
 
 
+
 print(dados)
